@@ -3,7 +3,7 @@
 #define NC_PIN 8
 #define BUZZ_PIN 6
 
-const int NC_DELAY = 2000;
+const int NC_DELAY = 500;
 const int NC_BURN_TIME = 3000;
 const int RF_THRESHOLD = 1740;
 // const float RF_Time = 100;
